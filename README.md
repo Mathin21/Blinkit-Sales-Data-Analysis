@@ -2,25 +2,25 @@
 
 ## STEPS IN PROJECT
 
-Requirement Gathering/ Business Requirements
+1) Requirement Gathering/ Business Requirements
 
-Data Walkthrough
+2) Data Walkthrough
 
-Data Connection
+3) Data Connection
 
-Data Cleaning / Quality Check
+4) Data Cleaning / Quality Check
 
-Data Modeling
+5) Data Modeling
 
-Data Processing
+6) Data Processing
 
-DAX Calculations
+7) DAX Calculations
 
-Dashboard Lay outing
+8) Dashboard Lay outing
 
-Charts Development and Formatting
+9) Charts Development and Formatting
 
-Dashboard / Report Development Insights Generation
+10) Dashboard / Report Development Insights Generation
 
 ## BUSINESS REQUIREMENT
 
@@ -28,13 +28,13 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## Requirements
 
-Total Sales: The overall revenue generated from all items sold.
+1) Total Sales: The overall revenue generated from all items sold.
 
-Average Sales: The average revenue per sale.
+2) Average Sales: The average revenue per sale.
 
-Number of Items: The total count of different items sold.
+3) Number of Items: The total count of different items sold.
 
-Average Rating: The average customer rating for items sold.
+4) Average Rating: The average customer rating for items sold.
 
 ## Chart Requirements
 
@@ -86,3 +86,12 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 
 Chart Type: Matrix Card.
 
+## TOOLS USED
+
+1) Power BI: For data visualization, dashboard development, and insights generation.
+
+2) Microsoft Excel: For initial data exploration and cleaning.
+
+3) SQL: For data connection and querying.
+
+4) DAX (Data Analysis Expressions): For creating calculated columns, measures, and custom KPIs in Power BI.
